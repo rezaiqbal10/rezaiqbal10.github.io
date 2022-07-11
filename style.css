@@ -1,0 +1,48 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ffffef;
+}
+body {
+  min-height: 5000px;
+}
+#projects {
+  background-color: #ffffef;
+}
+section {
+  padding-top: 5rem;
+}
+#button1 {
+  border: 2px solid transparent;
+  padding: 9px 22px;
+  border-radius: 30px;
+  transition: 0.4s;
+}
+#button2 {
+  border: 2px solid transparent;
+  padding: 9px 22px;
+  border-radius: 30px;
+  transition: 0.4s;
+}
+#button3 {
+  border: 2px solid transparent;
+  padding: 9px 22px;
+  border-radius: 30px;
+  transition: 0.4s;
+}
+#button4 {
+  border: 2px solid transparent;
+  padding: 9px 22px;
+  border-radius: 30px;
+  transition: 0.4s;
+}
+
+/* .button-two {
+  background-color: red;
+  color: #ffffef;
+  text-decoration: none;
+  border: 2px solid transparent;
+  padding: 13px 30px;
+  border-radius: 30px;
+  transition: 0.4s;
+  cursor: pointer;
+} */
